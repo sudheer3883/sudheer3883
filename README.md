@@ -1,93 +1,222 @@
 <div align="center">
 
-# Hi there, I'm Sudheer Kumar 👋
+# 👋 Hi, I'm Sudheer Kumar
 
-### 🚀 MERN Stack Developer | Web Developer | B.Tech CSE Student
+### 🚀 MERN Stack Developer | Full-Stack Web Developer | B.Tech CSE Student
+
+<p>
+  I build modern, responsive and user-friendly web applications using
+  <strong>JavaScript, React.js, Node.js, Express.js and MongoDB.</strong>
+</p>
+
+<p>
+  <a href="https://github.com/sudheer3883">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sudheer-kumar-60a7ab342/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=sudheer3883&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I am a passionate Web Developer focused on building modern, responsive and user-friendly web applications.
-Currently, I am learning and working with the **MERN Stack** and improving my JavaScript and full-stack development skills through practical projects.
+I'm a **B.Tech Computer Science student and MERN Stack Developer** passionate about creating practical and scalable web applications.
 
-- 💻 MERN Stack Developer
-- ⚛️ React.js & JavaScript enthusiast
-- 🌱 Currently improving full-stack development skills
-- 🛠️ Interested in building real-world web applications
+I enjoy turning ideas into real-world projects and continuously improving my skills in **frontend development, backend development, databases, APIs and full-stack architecture.**
+
+### 🚀 What I Do
+
+* 💻 Build full-stack web applications using the **MERN Stack**
+* ⚛️ Develop responsive and reusable **React.js interfaces**
+* 🟢 Create REST APIs using **Node.js & Express.js**
+* 🍃 Work with **MongoDB** for database management
+* 🧩 Build reusable and maintainable components
+* 🔐 Implement authentication and backend functionality
+* 📱 Focus on responsive and user-friendly UI
+* 🚀 Learn by building real-world projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+### 🌐 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🍃 Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### 🧰 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+</p>
+
 ---
 
-## 📊 My GitHub Stats
+## 💡 Skills
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sudheer3883&show_icons=true&theme=dark&hide_border=true" alt="Sudheer's GitHub Stats" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudheer3883&theme=dark&hide_border=true" alt="GitHub Streak" />
-
-</div>
+| Category        | Technologies                                 |
+| --------------- | -------------------------------------------- |
+| **Frontend**    | HTML5, CSS3, JavaScript, React.js, Bootstrap |
+| **Backend**     | Node.js, Express.js                          |
+| **Database**    | MongoDB                                      |
+| **Programming** | JavaScript, Problem Solving                  |
+| **API**         | REST APIs, API Integration                   |
+| **Tools**       | Git, GitHub, VS Code, Postman, npm           |
 
 ---
 
-## 💻 My Projects
+## 🚀 Featured Projects
 
-### 🎵 Music Player
-A browser-based music player with a clean interface and interactive controls.
+### 🛒 Softpro Innovation — Full-Stack E-Commerce
 
-**Technologies:** HTML, CSS, JavaScript
+A complete **MERN Stack e-commerce application** developed as a major full-stack project.
 
-### 🌦️ Weather App
-A responsive weather application that displays weather information using a weather API.
+**Key Features:**
 
-**Technologies:** HTML, CSS, JavaScript, Weather API
+* 🛍️ Product browsing and shopping interface
+* 📂 Product/category management
+* 🔐 Authentication functionality
+* 🛒 E-commerce workflow
+* 📱 Responsive user interface
+* 🔌 REST API integration
+* 🗄️ MongoDB database integration
+
+**Tech Stack:**
+`React.js` `JavaScript` `Node.js` `Express.js` `MongoDB` `Bootstrap`
+
+🔗 **Live Project:**
+https://softpro-innovations-dri6.vercel.app/
+
+---
 
 ### 🏨 Oberoi Hotels
-A modern hotel website built with React, featuring reusable components, responsive UI and interactive sections.
 
-**Technologies:** React.js, JavaScript, Bootstrap, CSS
+A modern and responsive hotel website created using React.js with reusable components and interactive sections.
 
-### 🛒 Softpro Innovation E-Commerce
-A full-stack e-commerce project developed for Softpro Innovation, including product/category management and an online shopping interface.
+**Tech Stack:**
+`React.js` `JavaScript` `Bootstrap` `CSS`
 
-**Technologies:** React.js, JavaScript, Node.js, Express.js, MongoDB, Bootstrap
+---
+
+### 🌦️ Weather Application
+
+A responsive weather application that fetches weather information through an API and presents it through a clean user interface.
+
+**Tech Stack:**
+`HTML` `CSS` `JavaScript` `Weather API`
+
+---
+
+### 🎵 Music Player
+
+A browser-based music player featuring interactive controls and a clean user interface.
+
+**Tech Stack:**
+`HTML` `CSS` `JavaScript`
 
 ---
 
 ## 📚 Currently Learning
 
-- 🔥 MERN Stack
-- ⚛️ React.js
-- 🟢 Node.js & Express.js
-- 🍃 MongoDB
-- 💡 JavaScript & problem solving
-- 🚀 Building full-stack projects
+```text
+JavaScript
+   ↓
+React.js
+   ↓
+Node.js + Express.js
+   ↓
+MongoDB
+   ↓
+REST APIs
+   ↓
+MERN Stack
+   ↓
+Advanced Full-Stack Development
+```
+
+### 🎯 Current Focus
+
+* 🔥 Advanced JavaScript
+* ⚛️ React.js
+* 🟢 Node.js & Express.js
+* 🍃 MongoDB
+* 🔐 Authentication & Authorization
+* 🔌 REST API Development
+* 🧠 Problem Solving
+* 🚀 Full-Stack Application Development
 
 ---
 
-## 🌐 Let's Connect
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sudheer3883&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheer3883&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sudheer3883&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sudheer3883/sudheer3883/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+* 🚀 Become a strong **MERN Stack Developer**
+* 💻 Build production-ready full-stack applications
+* 🧠 Improve JavaScript and problem-solving skills
+* ⚛️ Master React.js development
+* 🔐 Learn advanced authentication and security
+* ☁️ Explore deployment and cloud technologies
+* 🤝 Contribute to open-source projects
+* 📈 Maintain consistent GitHub activity
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sudheer-kumar-60a7ab342/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://github.com/sudheer3883">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -96,8 +225,20 @@ A full-stack e-commerce project developed for Softpro Innovation, including prod
 
 ---
 
+## 💬 Developer Quote
+
 <div align="center">
 
-⭐ Thanks for visiting my profile!
+> **"Build. Learn. Improve. Repeat. 🚀"**
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my GitHub profile!
+
+**Feel free to explore my repositories and projects.**
 
 </div>
